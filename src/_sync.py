@@ -55,9 +55,9 @@ RUTA_MUTABLE = "./data/cron_userbackup_01.04.24.00.00cnx_2181.txt"
 RUTA_INMUTABLE = "./data/userbackup.txt"
 RUTA_REGISTRO = "./logs/registro.log"
 
-REMITENTE = "kurretavizcaya168@ieszaidinvergeles.org"
-CONTRASEÑA = "yvtu ensh ycra ismp"
-DESTINATARIO = "kurretavizcaya168@ieszaidinvergeles.org"
+REMITENTE = ""
+CONTRASEÑA = ""
+DESTINATARIO = ""
 
 INTERVALO = 60*5
 

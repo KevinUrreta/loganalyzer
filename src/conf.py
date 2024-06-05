@@ -11,10 +11,10 @@ RUTA_LOGS = "./logs/clientes.log"
 
 """ DATOS DEL REMITENTE, Y ENVIO AL DESTINATARIO """
 # Correo y contraseña del remitente.
-REMITE_EMAIL = "kurretavizcaya168@ieszaidinvergeles.org"
-CONTRASEÑA_EMAIL = "yvtu ensh ycra ismp"
+REMITE_EMAIL = ""
+CONTRASEÑA_EMAIL = ""
 # Correo del destinatario.
-DESTINATARIO_EMAIL = "kurretavizcaya168@ieszaidinvergeles.org"
+DESTINATARIO_EMAIL = ""
 
 """ DEFINIR INTERVALOS DE TIEMPO. """
 # INTERVALO: Este intervalo es el tiempo entre la ejecucion
