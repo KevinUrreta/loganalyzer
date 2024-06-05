@@ -11,7 +11,7 @@ Notificacion LogAnalyzer es un programa en Python diseñado para ejecutar tareas
 ## Instalación
 Para utilizar el LogAnalyzer, asegúrate de tener Python 3.12 instalado en tu sistema. Luego, clona el repositorio en tu máquina local utilizando el siguiente comando:
 ```bash
-git clone https://github.com/KevinUrreta/newalert.git
+git clone https://github.com/KevinUrreta/loganalyzer.git
 ```
 
 ## Uso
